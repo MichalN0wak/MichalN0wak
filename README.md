@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m Michal Nowak - an IT Project Manager aspiring to be QA automation specialist!
+- 👋 Hi there, I’m Michal Nowak - an IT Project Manager!
 
 ## Links
 
