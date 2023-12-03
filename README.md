@@ -1,6 +1,7 @@
 - 👋 Hi there, I’m Michal Nowak - an IT Project Manager!
 
 ## Links
+- Codewars profile [link](https://www.codewars.com/users/MichalNowak)
 
 ## VSC
 
