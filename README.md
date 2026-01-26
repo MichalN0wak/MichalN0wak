@@ -1,27 +1,31 @@
-- 👋 Hi there, I’m Michal Nowak - an IT Project Manager!
+## Hi, I'm Michał 👋
 
-## Links
-- Codewars profile [link](https://www.codewars.com/users/MichalNowak)
+IT Project Manager with technical background (QA) and hands-on experience in software delivery, discovery, and validation.
 
-## VSC
+### What I do
+- Lead end-to-end delivery: discovery → roadmap → implementation → QA → release
+- Own scope, backlog, priorities, and delivery trade-offs
+- Translate business needs into clear technical requirements
+- Work closely with developers, QA, and stakeholders
+- Apply AI and automation to improve delivery and documentation efficiency
 
-### extensions
-- GitLens (view details of your repo i.e. commits history)
-- Playwright for VSC
-- Prettier
+### Selected domains
+- SaaS
+- FinTech & payments
+- EdTech & digital learning
+- Time-critical event platforms
+- Research-driven cognitive assessment
+- Healthcare & pharmacy software
+- Insurance & OCR-based workflows
+- Automotive (Android Automotive OS)
+- Hardware–software systems
 
-### config
-- format code on save --> View -> Command Palette -> type: "user settings" and open -> search: "format on save" -> check: "Editor Format On Save"
-
-### prettier
-- exclude files in `.prettierignore`
-```
-package-lock.json
-playwright-report
-test-results
-```
-- set rules `.prettierrc.json`
-```
-"singleQuote": true
-```
-- `npx prettier --write .` --> run Prettier
+### Tools & Tech
+- **Delivery:** Jira, Confluence (Admin), ClickUp, G Suite
+- **AI tools:** ChatGPT, Gemini, Cursor
+- **Automation:** Make.com, Google Apps Script
+- **QA:** Postman, Swagger, TestRail
+- **Design:** Figma, Canva
+- **Repo:** GitHub
+- **Documentation & diagrams:** Miro, Whimsical
+- **Productivity:** TypeDesk, MacWhisper, Todoist, Radio Italia 🇮🇹
