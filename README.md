@@ -20,6 +20,11 @@ IT Project Manager with technical background (QA) and hands-on experience in sof
 - Automotive (Android Automotive OS)
 - Hardware–software systems
 
+### Languages
+- **Polish:** Native
+- **English:** B2/C1 (full professional working proficiency)
+- **Italian:** B1/B2 (communicative)
+
 ### Tools & Tech
 - **Delivery:** Jira, Confluence (Admin), ClickUp, G Suite
 - **AI tools:** ChatGPT, Gemini, Cursor
