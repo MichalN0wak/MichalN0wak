@@ -9,7 +9,7 @@ IT Project Manager with technical background (QA) and hands-on experience in sof
 - Work closely with developers, QA, and stakeholders
 - Apply AI and automation to improve delivery and documentation efficiency
 
-### Selected domains (web / Mobile / Desktop / Automotive apps)
+### Selected domains (Web / Mobile / Desktop / Automotive apps)
 - SaaS
 - FinTech & payments
 - EdTech & digital learning
