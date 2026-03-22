@@ -9,11 +9,12 @@ IT Project Manager with technical background (QA) and hands-on experience in sof
 - Work closely with developers, QA, and stakeholders
 - Apply AI and automation to improve delivery and documentation efficiency
 
-### Selected domains
+### Selected domains (web / Mobile / Desktop / Automotive apps)
 - SaaS
 - FinTech & payments
 - EdTech & digital learning
 - Time-critical event platforms
+- Real estate
 - Research-driven cognitive assessment
 - Healthcare & pharmacy software
 - Insurance & OCR-based workflows
@@ -26,11 +27,11 @@ IT Project Manager with technical background (QA) and hands-on experience in sof
 - **Italian:** B1/B2 (communicative)
 
 ### Tools & Tech
-- **Delivery:** Jira, Confluence (Admin), ClickUp, G Suite
-- **AI tools:** ChatGPT, Gemini, Cursor
+- **Delivery:** Jira (Admin), Confluence (Admin), ClickUp, Notion, G Suite
+- **AI tools:** Cursor, ChatGPT, Gemini
 - **Automation:** Make.com, Google Apps Script
 - **QA:** Postman, Swagger, TestRail
 - **Design:** Figma, Canva
-- **Repo:** GitHub
-- **Documentation & diagrams:** Miro, Whimsical
+- **Diagrams:** Miro, Whimsical
+- **Repo:** **GitHub**, Git  
 - **Productivity:** TypeDesk, MacWhisper, Todoist, Radio Italia 🇮🇹
