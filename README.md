@@ -107,6 +107,36 @@ an **IT Project Manager** who combines PM, BA, and QA through discovery → deli
 - **Hardware–software systems**  
   ![Embedded](https://img.shields.io/static/v1?label=&message=Embedded&color=fe7d37&style=flat-square) ![Poland](https://img.shields.io/static/v1?label=&message=Poland&color=dfb317&style=flat-square)
 
+- **Automotive — OEM production launches & supplier readiness**
+
+  <details>
+  <summary>👉 <strong>Client recommendation</strong> (EN) — <em>Volkswagen</em></summary>
+
+  [Full recommendation on LinkedIn →](https://www.linkedin.com/in/pmmichalnowak/details/recommendations/)
+
+  > I had the pleasure of working closely with Michał on a major automotive project preparing production for a new VW model. Throughout our collaboration, he showed a calm, thoughtful approach and a natural ability to bring people together around shared goals.
+  >
+  > He was always well prepared and open in discussing risks and challenges, doing so in a constructive, solution-oriented way that made cooperation smooth and effective. Even in demanding phases, he remained supportive, professional, and reliable.
+  >
+  > What stood out most was his genuine engagement, strong sense of responsibility, and steady presence that helped complex projects move forward effectively.
+  >
+  > — **Sebastian Wedman**, Supplier Readiness Management, **Volkswagen Poznań** · Mar 2026
+
+  </details>
+
+  <details>
+  <summary>👉 <strong>client recommendation</strong> (EN) — <em>Škoda</em></summary>
+
+  [Full recommendation on LinkedIn →](https://www.linkedin.com/in/pmmichalnowak/details/recommendations/)
+
+  > Michał communicated clearly, stayed proactive and open-minded, and was always ready to solve issues in the fast-moving automotive environment.
+  >
+  > He worked well under pressure, and cooperation with him was an excellent experience.
+  >
+  > — **Jiří Černý**, client, **Škoda** · Mar 2021
+
+  </details>
+
 ### Languages
 - **Polish:** Native
 - **English:** B2/C1 (full professional working proficiency)
