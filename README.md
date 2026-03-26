@@ -30,7 +30,7 @@ an **IT Project Manager** who combines PM, BA, and QA through discovery → deli
   </details>
 - **SaaS — medical supplies subscription**  
   ![Web](https://img.shields.io/static/v1?label=&message=Web&color=007ec6&style=flat-square) ![USA](https://img.shields.io/static/v1?label=&message=USA&color=dfb317&style=flat-square)
-- **FinTech & payments — mobile payments SDK** · [Tpay — developer libraries](https://tpay.com/dla-developera/biblioteki)  
+- **FinTech & payments — mobile payments SDK** · [Tpay — mobile SDK](https://tpay.com/dla-developera/biblioteki)  
   ![Mobile](https://img.shields.io/static/v1?label=&message=Mobile&color=44cc11&style=flat-square) ![Poland](https://img.shields.io/static/v1?label=&message=Poland&color=dfb317&style=flat-square)
   <details>
   <summary>👉 <strong>Client recommendation</strong> (PL) — <em>expand</em></summary>
