@@ -37,7 +37,15 @@ an **IT Project Manager** who combines PM, BA, and QA through discovery → deli
 
   [Full recommendation on LinkedIn →](https://www.linkedin.com/in/pmmichalnowak/details/recommendations/)
 
-  > Miałam przyjemność współpracować z Michałem przy projekcie mobile SDK i z pełnym przekonaniem mogę polecić go jako Project Managera. Każdy etap pracy był dokładnie zaplanowany, a zadania rozliczone klarownie i terminowo — Michał dbał o jasną komunikację i trzymał rękę na pulsie, więc zespół działał efektywnie i zgodnie z harmonogramem.
+  > Miałam przyjemność współpracować z Michałem przy projekcie mobile SDK i z pełnym przekonaniem mogę polecić go jako Project Managera.
+  >
+  > Michał wykazywał się niezwykłą organizacją i umiejętnością zarządzania projektami. Każdy etap pracy był dokładnie zaplanowany, a zadania rozliczone w sposób klarowny i terminowy. Michała podejście i dokładność pozwalały zespołowi działać efektywnie oraz zgodnie z harmonogramem. 
+  >
+  > Każdy etap pracy był dokładnie zaplanowany, a zadania rozliczone klarownie i terminowo. Michała podejście i dokładność pozwalału zespołowi działać efektywnie i zgodnie z harmonogramem.
+  >
+  > Co więcej, Michał zawsze dbał o jasną komunikację i trzymał rękę na pulsie, zapewniając, że projekt zmierza we właściwym kierunku. Dzięki temu nasze działania były spójne, a wyznaczone cele osiągane zgodnie z założonymi terminami.
+  >
+  > Polecam współpracę z Michałem, dla każdego kto ceni i szuka solidnego i rzetelnego Project Managera. 
   >
   > — **Klaudia Krajewska**, Product Manager, **Tpay** · Nov 2024
 
@@ -49,7 +57,13 @@ an **IT Project Manager** who combines PM, BA, and QA through discovery → deli
 
   [Full recommendation on LinkedIn →](https://www.linkedin.com/in/pmmichalnowak/details/recommendations/)
 
-  > Współpracowałem z Michałem jako Project Managerem po stronie dostawcy technologicznego przy aplikacji Skumani (www.skumani.pl). Projekt realizowaliśmy od lutego do września 2025, z twardym deadlinem uruchomienia przed startem roku szkolnego. Michał odpowiadał za plan end-to-end: komunikację, harmonogram, kamienie milowe, raportowanie oraz zarządzanie zmianami. Wyzwanie polegało na koordynacji 3 organizacji: nas (Żak/Edukom), software house'u oraz zewnętrznej agencji UX/UI. Michał skutecznie spinał decyzje między interesariuszami, pilnując priorytetów i spójności wdrażanych rozwiązań. Doceniam jego transparentną komunikację i opanowanie w gorącym okresie przedwdrożeniowym. Jeśli potrzebujesz Project Managera, który dba o komunikację i zamiast szukać wymówek, szuka rozwiązań — Michał to właściwa osoba.
+  > Współpracowałem z Michałem jako Project Managerem po stronie dostawcy technologicznego przy aplikacji Skumani (www.skumani.pl). Projekt realizowaliśmy od lutego do września 2025, z twardym deadlinem uruchomienia przed startem roku szkolnego. Michał odpowiadał za plan end-to-end: komunikację, harmonogram, kamienie milowe, raportowanie oraz zarządzanie zmianami.
+  >
+  > Wyzwanie polegało na koordynacji 3 organizacji: nas (Żak/Edukom), software house'u oraz zewnętrznej agencji UX/UI. Michał skutecznie spinał decyzje między interesariuszami, pilnując priorytetów i spójności wdrażanych rozwiązań.
+  >
+  > Doceniam jego transparentną komunikację i opanowanie w gorącym okresie przedwdrożeniowym.
+  >
+  > Jeśli potrzebujesz Project Managera, który dba o komunikację i zamiast szukać wymówek, szuka rozwiązań - Michał to właściwa osoba.
   >
   > — **Marcin Sołodki**, Business Developer / **Żak · Edukom** (client) · Jan 2026
 
@@ -62,6 +76,10 @@ an **IT Project Manager** who combines PM, BA, and QA through discovery → deli
   > I had the pleasure of working with Michał, who coordinated three stakeholders to deliver a complex education platform. He stayed calm in difficult situations and handled challenges with professionalism. He takes on difficult tasks and has direct conversations to resolve issues during development. Michał manages teams well and keeps everyone aligned, which helped the project stay on track. He consistently provides well prepared feedback that helps the team move forward. I would gladly work with him again!
   >
   > — **Maria Jeleńska-Bylicka**, Digital Designer (UX/UI), project partner agency · Jan 2026
+
+- **EdTech & e-learning** · Polska Fundacja Przedsiębiorczości  
+  ![Web](https://img.shields.io/static/v1?label=&message=Web&color=007ec6&style=flat-square) ![Poland](https://img.shields.io/static/v1?label=&message=Poland&color=dfb317&style=flat-square)
+  <details>
 
   </details>
 - **Time-critical event platforms** · [Trick or Treat Map](https://www.trickortreatmap.com/)  
@@ -129,9 +147,11 @@ an **IT Project Manager** who combines PM, BA, and QA through discovery → deli
 
   [Full recommendation on LinkedIn →](https://www.linkedin.com/in/pmmichalnowak/details/recommendations/)
 
-  > Michał communicated clearly, stayed proactive and open-minded, and was always ready to solve issues in the fast-moving automotive environment.
+  > Perfect communication, pro-active approach, open minded. Always ready to solve issues in dynamic enviroment of automotive.
   >
-  > He worked well under pressure, and cooperation with him was an excellent experience.
+  > Able to work under pressure
+  >
+  > Cooperation with Michał was a perfect experience.
   >
   > — **Jiří Černý**, client, **Škoda** · Mar 2021
 
