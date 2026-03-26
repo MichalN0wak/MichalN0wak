@@ -110,7 +110,7 @@ an **IT Project Manager** who combines PM, BA, and QA through discovery → deli
 - **Automotive — OEM production launches & supplier readiness**
 
   <details>
-  <summary>👉 <strong>Client recommendation</strong> (EN) — <em>Volkswagen</em></summary>
+  <summary>👉 <strong>Client recommendation from Volkswagen</strong> (EN) — <em>Expand</em></summary>
 
   [Full recommendation on LinkedIn →](https://www.linkedin.com/in/pmmichalnowak/details/recommendations/)
 
@@ -125,7 +125,7 @@ an **IT Project Manager** who combines PM, BA, and QA through discovery → deli
   </details>
 
   <details>
-  <summary>👉 <strong>client recommendation</strong> (EN) — <em>Škoda</em></summary>
+  <summary>👉 <strong>client recommendation from Škoda</strong> (EN) — <em>Expand</em></summary>
 
   [Full recommendation on LinkedIn →](https://www.linkedin.com/in/pmmichalnowak/details/recommendations/)
 
