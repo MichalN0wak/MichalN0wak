@@ -98,9 +98,9 @@ an **IT Project Manager** who combines PM, BA, and QA through discovery → deli
   > — **Michelle Pearce-Burke**, Founder, **Trick or Treat** · Feb 2026
 
   </details>
-- **Real estate — AI-assisted app**  
+- **Real estate — AI-native property listing, marketplace, services**  
   ![Web](https://img.shields.io/static/v1?label=&message=Web&color=007ec6&style=flat-square) ![Mobile](https://img.shields.io/static/v1?label=&message=Mobile&color=44cc11&style=flat-square) ![Saudi Arabia](https://img.shields.io/static/v1?label=&message=Saudi%20Arabia&color=dfb317&style=flat-square)
-- **Real estate — AI-powered product**  
+- **Real estate — AI-powered investment-purposed property listing**  
   ![Web](https://img.shields.io/static/v1?label=&message=Web&color=007ec6&style=flat-square) ![Qatar](https://img.shields.io/static/v1?label=&message=Qatar&color=dfb317&style=flat-square)
 - **Research-driven cognitive assessment** · [Cognitron](https://www.cognitron.co.uk/)  
   ![Web](https://img.shields.io/static/v1?label=&message=Web&color=007ec6&style=flat-square) ![UK](https://img.shields.io/static/v1?label=&message=UK&color=dfb317&style=flat-square)
