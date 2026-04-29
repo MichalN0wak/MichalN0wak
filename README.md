@@ -164,10 +164,10 @@ an **IT Project Manager** who combines PM, BA, and QA through discovery → deli
 
 ### Tools & Tech
 - **Delivery & work management:** Jira (setup and Admin), Confluence (setup and Admin), ClickUp, Notion, G Suite
-- **AI tools:** Cursor, ChatGPT, Gemini
+- **AI tools:** Cursor, Claude, ChatGPT, Gemini
 - **Automation:** Google Apps Script, Make.com
 - **QA:** Postman, Swagger, TestRail
 - **Design:** Figma, Canva
 - **Diagrams:** Miro, Whimsical
 - **Repo:** **GitHub**, Git
-- **Productivity:** TypeDesk, MacWhisper, Todoist, Radio Italia 🇮🇹
+- **Productivity:** TypeDesk, MacWhisper, WisprFlow, Todoist, Radio Italia 🇮🇹
